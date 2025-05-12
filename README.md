@@ -35,3 +35,8 @@ Select dates for check-in and check-out
 AI Travel Planner
 
 ![Screenshot 2025-05-11 155254](https://github.com/user-attachments/assets/0d065cbe-dbd9-4580-b7fe-6b89b0f577ba)
+
+
+## 🎥 DemoDemo Video 
+
+https://github.com/user-attachments/assets/6dc9c925-24ad-4b3a-8b52-d85285f4c6ca
